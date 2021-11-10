@@ -1,4 +1,4 @@
-# hoodHelpApp
+# hoodHelp
 
 hoodHelp ist eine App für Nachbarschaftshilfe.
 Die Nutzer haben die Möglichkeit einfach mit ihren Nachbarn in Kontakt zu kommen und sich auszutauschen. 
